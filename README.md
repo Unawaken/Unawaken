@@ -13,6 +13,11 @@ I'm a curious mind who loves tinkering with code, exploring new tech, and occasi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
 
 ---
 
